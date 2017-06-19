@@ -7,5 +7,5 @@ División de proyectos en 3 áreas generales:
 * Diseño de productos
 
 **Contacto vía mail a través de la misma página**
-url: flarrain.disenoproductos.cl
+- url: flarrain.disenoproductos.cl
 
