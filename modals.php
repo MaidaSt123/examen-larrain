@@ -79,7 +79,7 @@
                             <h2>Estampados para trajes de baño Froens</h2>
                             <p class="item-intro text-muted">Diseño digital para la temporada de verano 2017.</p>
                             <img class="img-responsive img-centered" src="img/portfolio/trajesb.jpg" alt="estampados de la temporada 2017 marca Froens">
-                            <p>A fines del año 2016 Froens lanzó su primera temporada de productos femeninos. Para esto, junto
+                            <p>A fines del año 2016 Froens lanzó su <strong>primera temporada de productos femeninos.</strong> Para esto, junto
                             a Francisca Bracchitta, diseñamos la colección que empezó con trajes de baño para mujeres.</p>
                             <p>Fueron diseñados también algunos estampados para la colección de hombres </a>.</p>
                         </div>
@@ -300,7 +300,7 @@
                             <h2>Tintosos</h2>
                             <p class="item-intro text-muted">Juego para niños que busca el desarrollo cognitivo y social.</p>
                             <img class="img-responsive img-centered" src="img/portfolio/tintosos-1.jpg" alt="niños jugando con Tintosos">
-                            <p>A través del juego con otros, se busca desarrollar el <stong>pensamiento social y también
+                            <p>A través del juego con otros, se busca desarrollar el <strong>pensamiento social y también
                               congnitivo</strong> de los niños a través de la relación de colores, nombres, tamaños y números.</p>
                             <p>Diseñado junto a Macarena Alfaro.</a>.</p>
                         </div>
