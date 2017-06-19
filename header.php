@@ -5,7 +5,6 @@
 $title = "Portafolio";
 $description = "Portafolio de diseño que muestra proyectos gráficos, de ilustración y de productos
 enfocado en la naturaleza y en las personas.";
-$image = "img/about/quien-soy2.jpg";
 ?>
 
 <head>
@@ -15,12 +14,12 @@ $image = "img/about/quien-soy2.jpg";
     <title><?php echo($title);?></title>
   <!-- Search Engine -->
 <meta name="description" content="<?php echo($description);?>">
-<meta name="image" content="<?php echo($image);?>">
+<meta name="image" content="none">
 <!-- Schema.org for Google -->
 <meta itemprop="name" content="<?php echo($title);?>">
 <meta itemprop="description" content="Portafolio de diseño que muestra proyectos gráficos, de ilustración y de productos
 enfocado en la naturaleza y en las personas.">
-<meta itemprop="image" content="<?php echo($image);?>">
+<meta itemprop="image" content="none">
 <!-- Twitter -->
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="<?php echo($title);?>">
@@ -28,7 +27,7 @@ enfocado en la naturaleza y en las personas.">
 <!-- Open Graph general (Facebook, Pinterest & Google+) -->
 <meta name="og:title" content="<?php echo($title);?>">
 <meta name="og:description" content="<?php echo($description);?>">
-<meta name="og:image" content="<?php echo($image);?>">
+<meta name="og:image" content="none">
 <meta name="og:url" content="http://flarrain.disenoproyectos.cl/">
 <meta name="og:site_name" content="<?php echo($title);?>">
 <meta name="og:locale" content="es_CL">
